@@ -1,6 +1,8 @@
 # Mini NPU Simulator
 
-MAC(Multiply-Accumulate) 연산을 직접 구현하여 패턴을 판별하는 Python 콘솔 애플리케이션입니다.
+Mini NPU Simulator는 컴퓨터가 시각적 형태를 인식하는 방식인 '필터(Filter)'와 'MAC((Multiply-Accumulate)) 연산'의 원리를 이해하기 위해 개발되는 Python 콘솔 애플리케이션입니다
+
+이 시뮬레이터 개발 과정은 AI의 가장 기본이 되는 연산 단위를 직접 구현해 봄으로써, 데이터 구조 처리, 수치 해석적 예외 상황 대응, 그리고 알고리즘 효율성 분석 능력을 기르는 데 그 목적이 있습니다
 
 ---
 
